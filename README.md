@@ -55,3 +55,23 @@ If the file is in the root folder, compile and run it from the repository root i
 - This repository is intended for learning and interview preparation.
 - No external dependencies are required; it uses plain Java.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+<!---LeetCode Topics End-->
