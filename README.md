@@ -92,4 +92,8 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
