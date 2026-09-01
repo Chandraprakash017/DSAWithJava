@@ -109,4 +109,16 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
