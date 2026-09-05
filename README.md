@@ -86,6 +86,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [3875-construct-uniform-parity-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
