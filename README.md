@@ -138,6 +138,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0175-combine-two-tables/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0183-customers-who-never-order/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
