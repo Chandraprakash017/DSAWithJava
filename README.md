@@ -108,6 +108,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -189,4 +191,8 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
