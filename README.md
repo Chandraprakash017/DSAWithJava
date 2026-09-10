@@ -101,6 +101,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Bit Manipulation
@@ -134,6 +135,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0115-distinct-subsequences/) | Hard |
+| [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
