@@ -82,6 +82,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0011-container-with-most-water/) | Medium |
+| [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0162-find-peak-element/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0835-image-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0835-image-overlap/) | Medium |
@@ -184,6 +185,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -228,4 +230,8 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0796-rotate-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
