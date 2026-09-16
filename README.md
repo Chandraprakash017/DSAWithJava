@@ -95,6 +95,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0258-add-digits/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
