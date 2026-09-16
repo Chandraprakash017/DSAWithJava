@@ -85,6 +85,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0162-find-peak-element/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0835-image-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0835-image-overlap/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -108,6 +109,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -173,6 +175,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0162-find-peak-element/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -228,6 +231,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0011-container-with-most-water/) | Medium |
 | [0344-reverse-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Recursion
@@ -241,6 +245,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
