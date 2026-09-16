@@ -129,6 +129,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -171,6 +172,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sliding Window
@@ -192,6 +194,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Brainteaser
@@ -240,4 +243,8 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
