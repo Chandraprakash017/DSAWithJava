@@ -113,6 +113,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0190-reverse-bits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Linked List
@@ -247,6 +248,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
+| [0190-reverse-bits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0190-reverse-bits/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
