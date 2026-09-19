@@ -137,6 +137,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3870-count-commas-in-range/) | Easy |
@@ -204,6 +205,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
