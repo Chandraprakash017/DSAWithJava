@@ -162,6 +162,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0258-add-digits/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Database
 | Problem Name | Difficulty |
