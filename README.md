@@ -92,6 +92,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -141,6 +142,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -222,6 +224,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
