@@ -113,6 +113,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -161,6 +162,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
 | [0796-rotate-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -286,4 +288,12 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0131-palindrome-partitioning/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
