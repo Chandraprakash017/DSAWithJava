@@ -93,6 +93,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -144,6 +145,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -296,4 +298,8 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
