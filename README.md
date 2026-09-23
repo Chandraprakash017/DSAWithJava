@@ -72,6 +72,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0223-rectangle-area](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0263-ugly-number/) | Easy |
+| [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -224,6 +226,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -303,4 +306,12 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
