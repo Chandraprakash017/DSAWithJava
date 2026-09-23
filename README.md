@@ -145,6 +145,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0263-ugly-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
+| [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -171,6 +172,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0345-reverse-vowels-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
+| [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0796-rotate-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
