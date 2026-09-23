@@ -139,6 +139,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
