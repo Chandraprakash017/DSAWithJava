@@ -131,6 +131,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Linked List
@@ -147,6 +148,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0263-ugly-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -177,6 +179,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0345-reverse-vowels-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0796-rotate-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
