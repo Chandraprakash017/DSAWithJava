@@ -95,6 +95,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -172,6 +173,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0835-image-overlap/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -258,6 +260,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -351,4 +354,5 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
