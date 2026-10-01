@@ -181,6 +181,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
@@ -206,6 +207,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0020-valid-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -361,6 +363,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
