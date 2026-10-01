@@ -84,6 +84,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0016-3sum-closest/) | Medium |
 | [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0162-find-peak-element/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -297,6 +298,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0016-3sum-closest/) | Medium |
 | [0344-reverse-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -315,6 +317,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0016-3sum-closest/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
