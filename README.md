@@ -162,6 +162,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
