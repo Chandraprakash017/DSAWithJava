@@ -171,6 +171,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -258,6 +259,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0162-find-peak-element](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0162-find-peak-element/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -335,6 +337,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0392-is-subsequence/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Recursion
