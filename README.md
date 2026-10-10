@@ -196,6 +196,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0032-longest-valid-parentheses/) | Hard |
