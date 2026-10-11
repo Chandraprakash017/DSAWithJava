@@ -171,6 +171,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0412-fizz-buzz](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0415-add-strings/) | Easy |
 | [0486-predict-the-winner](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
@@ -213,6 +214,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0412-fizz-buzz](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -252,6 +254,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0415-add-strings/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3498-reverse-degree-of-a-string/) | Easy |
