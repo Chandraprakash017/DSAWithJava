@@ -165,6 +165,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0223-rectangle-area/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
@@ -206,6 +207,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0032-longest-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0344-reverse-string/) | Easy |
@@ -239,6 +241,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
