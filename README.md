@@ -169,6 +169,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0263-ugly-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0292-nim-game/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0486-predict-the-winner](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
@@ -263,6 +264,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0162-find-peak-element](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0162-find-peak-element/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
