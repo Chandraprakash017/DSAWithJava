@@ -118,6 +118,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -206,6 +207,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [3871-count-commas-in-range-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +400,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
