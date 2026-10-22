@@ -126,6 +126,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [3903-smallest-stable-index-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
