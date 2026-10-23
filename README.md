@@ -246,6 +246,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0412-fizz-buzz](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0796-rotate-string/) | Easy |
@@ -420,6 +421,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0796-rotate-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -510,4 +512,12 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
