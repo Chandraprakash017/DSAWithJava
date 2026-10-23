@@ -147,6 +147,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -185,6 +186,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0223-rectangle-area](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0258-add-digits/) | Easy |
@@ -231,6 +233,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0032-longest-valid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0301-remove-invalid-parentheses/) | Hard |
