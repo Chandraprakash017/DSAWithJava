@@ -245,6 +245,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0796-rotate-string/) | Easy |
