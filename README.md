@@ -68,6 +68,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0279-perfect-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0643-maximum-average-subarray-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0835-image-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0835-image-overlap/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -223,6 +226,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String
@@ -501,6 +505,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
