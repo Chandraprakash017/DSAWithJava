@@ -70,6 +70,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1096-brace-expansion-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [3525-find-x-value-of-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -229,6 +232,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +511,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
