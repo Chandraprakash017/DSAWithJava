@@ -101,6 +101,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -211,6 +212,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0415-add-strings/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0507-perfect-number/) | Easy |
