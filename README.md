@@ -282,6 +282,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1096-brace-expansion-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -375,6 +376,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0486-predict-the-winner](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
