@@ -110,6 +110,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0835-image-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0835-image-overlap/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -340,6 +341,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -429,6 +431,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0392-is-subsequence](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0392-is-subsequence/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Recursion
@@ -455,6 +458,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
