@@ -127,6 +127,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
