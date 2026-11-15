@@ -128,6 +128,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -324,6 +325,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +373,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -505,6 +508,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +518,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Knapsack Problem
@@ -602,4 +607,12 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
