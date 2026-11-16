@@ -306,6 +306,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -338,6 +339,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0412-fizz-buzz](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0415-add-strings/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3925-concatenate-array-with-reverse/) | Easy |
