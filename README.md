@@ -62,6 +62,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0563-binary-tree-tilt/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -69,6 +70,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0563-binary-tree-tilt/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -87,6 +89,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0563-binary-tree-tilt/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
@@ -627,4 +630,8 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0563-binary-tree-tilt/) | Easy |
 <!---LeetCode Topics End-->
