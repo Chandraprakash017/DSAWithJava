@@ -101,6 +101,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0162-find-peak-element](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0162-find-peak-element/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -178,6 +179,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0166-fraction-to-recurring-decimal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0290-word-pattern/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -480,6 +482,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0016-3sum-closest/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
@@ -506,6 +509,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0053-maximum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0190-reverse-bits/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Combinatorics
@@ -528,6 +532,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -564,6 +569,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +577,7 @@ If the file is in the root folder, compile and run it from the repository root i
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -635,4 +642,8 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0563-binary-tree-tilt](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0563-binary-tree-tilt/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
