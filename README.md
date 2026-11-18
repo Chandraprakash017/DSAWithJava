@@ -314,6 +314,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2409-count-days-spent-together](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
