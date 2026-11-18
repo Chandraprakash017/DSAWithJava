@@ -109,6 +109,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0835-image-overlap](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0835-image-overlap/) | Medium |
@@ -186,6 +187,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0389-find-the-difference](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -373,6 +375,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
