@@ -65,6 +65,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0563-binary-tree-tilt](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0563-binary-tree-tilt/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [0563-binary-tree-tilt](https://github.com/Chandraprakash017/DSAWithJava/tree/main/0563-binary-tree-tilt/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
@@ -135,6 +137,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -202,6 +205,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -322,6 +326,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
