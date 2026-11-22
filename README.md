@@ -320,6 +320,7 @@ If the file is in the root folder, compile and run it from the repository root i
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chandraprakash017/DSAWithJava/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Chandraprakash017/DSAWithJava/tree/main/2409-count-days-spent-together/) | Easy |
